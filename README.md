@@ -1,2 +1,3 @@
 # Pymon
-A Pokemon Project Made On Python
+This Is Based On Hopson97's Asciimon
+This Is A Python Pun Pymon
